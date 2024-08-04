@@ -51,7 +51,7 @@ const encriptado = {
   };
 
 //Expresion regular
-const soloMinusculas = /^[a-z]+$/;
+const soloMinusculas = /^[a-z\s]+$/;
 
 //------------------------------------FUNCION ENCRIPTAR TEXTO---------------------------
 function encriptar(){
