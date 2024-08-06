@@ -13,7 +13,7 @@ body{
 /*Header*/
 header{
     display: flex;
-    margin: 60px 0 100px 0;
+    margin: 60px 0 60px 0;
 }
 
 header img{
@@ -125,6 +125,7 @@ main{
   }
 
 .warning{
+    color: #f8aa5b;
     padding: 15px 0 15px 0;
     text-align: left;
 }
@@ -211,7 +212,6 @@ main{
 }
 /*Footer*/
 footer{
-    margin-top: 50px;
     padding: 50px;
     text-align: center;   
 }
@@ -254,13 +254,14 @@ main{
 }
 footer{
     margin: 0;
+    padding: 25px;
 }
 
 footer p{
     font-size: 1.1rem;  
 }
 header{
-    margin: 50px;
+    margin: 30px 0 35px 0;
 }
 header img{
     width: 140px;
