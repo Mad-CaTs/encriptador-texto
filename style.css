@@ -276,6 +276,9 @@ header h1{
 .btn-desc:hover {
     font-size: 1.4rem;
 }
+#txt-2{
+    height: 250px;
+}
 }
 
 @media (max-width: 500px){
